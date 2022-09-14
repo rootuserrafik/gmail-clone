@@ -1,3 +1,4 @@
+import React from 'react';
 import SideNav from './SideNav'
 import styled from 'styled-components'
 import CreateOutlinedIcon from '@mui/icons-material/CreateOutlined';
